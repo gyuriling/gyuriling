@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`Discord Bot KKANTONN Developers` 🥦
+`Discord KKANTONN Butler` 🥦
